@@ -1,10 +1,3 @@
-Reordenar seções
-
-Pré-visualização
-
-Markdown
-
-Cópia
 Olá! Meu nome é Ana Carolina. =========================================================================================================================================================== * ✉️ Você pode me contatar em [aninhasantos657432@gmail.com](mailto:aninhasantos657432@gmail.com)
 
 <p align="left">
