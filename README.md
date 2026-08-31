@@ -1,9 +1,63 @@
-Olá! Meu nome é Ana Carolina. =========================================================================================================================================================== * ✉️ Você pode me contatar em [aninhasantos657432@gmail.com](mailto:aninhasantos657432@gmail.com)
+# 👋 Olá! Eu sou a Ana Carolina
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a> <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a> <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="36" height="36" /></a> <a href="https://code.visualstudio.com/" target="_blank" <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a>
-</p>
+💻 **Estudante de Análise e Desenvolvimento de Sistemas (ADS)**  
+🚀 **Desenvolvedora Back-end em formação**
 
-### Redes Sociais
+---
 
-<p align="left"> <a href="https://www.linkedin.com/in/ana-carolina-santos-5a0a4b271/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> </p>
+## 💡 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e tenho interesse principalmente em **desenvolvimento Back-end**.
+
+Gosto de **programação, lógica, APIs e bancos de dados** e estou sempre buscando aprender novas tecnologias e colocar meus conhecimentos em prática através de projetos.
+
+🌍 **Resido em:** São Paulo - SP, Brasil 🇧🇷
+
+---
+
+## 🧠 Atualmente estou aprendendo
+
+- 🐍 Python
+- ☕ Java
+- 🗄️ SQL e Banco de Dados
+- 🔗 APIs
+- 🐙 Git e GitHub
+- 📱 Flutter e Dart
+- 🧪 Testes de software
+- 💻 Desenvolvimento Back-end
+
+---
+
+## 🚀 Atualmente estou trabalhando em
+
+Projetos pessoais e acadêmicos na área de **desenvolvimento de software**, buscando aprimorar minhas habilidades e adquirir cada vez mais experiência.
+
+---
+
+## 🤝 Estou aberto(a) a colaborar em
+
+- Projetos de programação
+- Desenvolvimento Back-end
+- Projetos acadêmicos
+- Projetos open source
+- Ideias que envolvam tecnologia e desenvolvimento
+
+---
+
+## 🛠️ Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## ⚡ Um pouco mais
+
+Gosto de **aprender na prática, resolver problemas e transformar ideias em projetos através da tecnologia**. 🚀
+
+📚 Sempre buscando evoluir e aprender algo novo!
